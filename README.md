@@ -19,11 +19,12 @@ Table of reading-notes for 401 classes.
 
 | Read 01  |	[01-prep-and-tdd](./401-reading-notes/01-prep-and-tdd.md )|
 |-------- |	---------|
+
 |Read-02 |	   |
 |-------   |	---------|
 |Read-03 |	[03-prep-and-tdd](./401-javascript-reading/03-prep-and-tdd.md)|
 |------- 	|---------|
-|04-class |	[](./401-javascript-reading/04-sqlvsnosql.md) | 
+|04-class |	[4-sqlvsnosql.md](./401-javascript-reading/04-sqlvsnosql.md) | 
 |------- 	|---------|
 | |	|
 |------- 	|---------|
