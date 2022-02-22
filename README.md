@@ -21,9 +21,9 @@ Table of reading-notes for 401 classes.
 |-------- |	---------|
 |Read-02 |	   |
 |-------   |	---------|
-|Read-03 |	[03-prep-and-tdd](./401-reading-notes/03-prep-and-tdd.md)|
+|Read-03 |	[03-prep-and-tdd](./401-javascript-reading/03-prep-and-tdd.md)|
 |------- 	|---------|
-| |	|
+|04-class |	[](./401-javascript-reading/04-sqlvsnosql.md) | 
 |------- 	|---------|
 | |	|
 |------- 	|---------|
