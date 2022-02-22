@@ -14,7 +14,7 @@ Code 401 - Advanced Javascript
 
 Table of reading-notes for 401 classes.
 
-| Day  |	Page|
+| Subject  |	Page|
 |----- | ----   |
 
 | Read 01  |	[01-prep-and-tdd](./401-reading-notes/01-prep-and-tdd.md )|
@@ -26,7 +26,7 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 |04-class |	[4-sqlvsnosql.md](./401-javascript-reading/04-sqlvsnosql.md) | 
 |------- 	|---------|
-| |	|
+| 05-class | [Linkedlist](./401-javascript-reading/05-linkedList.md)	|
 |------- 	|---------|
 | |	|
 |------- 	|---------|
