@@ -17,7 +17,7 @@ Table of reading-notes for 401 classes.
 | Subject  |	Page|
 |----- | ----   |
 
-| Read 01  |	[02-prep-and-tdd](./401-javascript-reading/02-prep-and-tdd.md )|
+| Read 01  |	[02-prep-and-tdd](./401-javascript-reading/02-prep-and-tdd.md)|
 |-------   |	---------|
 |Read-03 |	[03-prep-and-tdd](./401-javascript-reading/03-prep-and-tdd.md)|
 |------- 	|---------|
