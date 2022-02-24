@@ -2,19 +2,19 @@
 
 ### sql vs nosql(Video):
 | SQL | NOSQL |
-|------  |  ------ |
+| ------  |  ------ |
 | Stcutued query language | nonue structred query language|
-|------  |  ------ |
+| ------  |  ------ |
 | Relational Databases | No relation |
-|------  |  ------ |
+| ------  |  ------ |
 | allows the database engine to guarantee consistency based on that design |  lower consistency of information |
-|------  |  ------ |
+| ------  |  ------ |
 |  table based databases |  key-value pairs |
-|------  |  ------ |
+| ------  |  ------ |
 | predefined schema | dynamic schema  |
-|------  |  ------ |
+| ------  |  ------ |
 | MySql, Oracle, Sqlite, Postgres and  | MongoDB, BigTable, Redis, RavenDb  |
-|------  |  ------ |
+| ------  |  ------ |
 
 
 ### Sql modeling techniques
