@@ -24,5 +24,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 |Read 05 | [Linkedlist](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/05-linkedList.html)	|
 |------- 	|---------|
-| Read 06 |	|  [Authentication](./401-javascript-reading/06-Authentication.md)       |
+| Read 06 |	 [Authentication](./401-javascript-reading/06-Authentication.md)  |    |
 |------- 	|---------|
