@@ -1,6 +1,6 @@
 # Authentication
 
-1. **Securing Passwords with Bcrypt Hashing Function**
+## 1. **Securing Passwords with Bcrypt Hashing Function**
 
 passwords are stored using a hashing algorithm. Cryptographic hash algorithms MD5, SHA1, SHA256, SHA512, SHA-3. Hashing is a way for protecting passwords and considered to be pretty safe for ensuring the integrity of data or password.
 
@@ -9,7 +9,7 @@ and there's a lot of problems with cryptographic HASH ALGORITHM:
  * Hash Collision attack
  
 
-2. **Basic Auth**
+## 2. **Basic Auth**
 
 Basic access authentication is a method for an HTTP user agent ex: web browser and it's a technique for enforcing access controls to web resources because it does not require cookies, session identifiers, or login pages. it uses standard fields in the HTTP header.
 
@@ -19,7 +19,7 @@ Microsoft Internet Explorer offers a dedicated JavaScript method to clear cached
 <script>document.execCommand('ClearAuthenticationCache');</script>
 ```
 
-3. OWASP auth cheatsheet
+## 3. **OWASP auth cheatsheet**
 
 **Authentication:** is the process of verifying that an individual. 
 
@@ -37,7 +37,7 @@ by using some mechanizsm lik: Store Passwords in a Secure Fashion or Compare Pas
 Use of authentication protocols that require no password ex: OAuth, OpenId, SAML, and FIDO.
 
 
-4. bcrypt docs
+## 4. **bcrypt docs**
 
 **node.bcrypt.js** A library to help you hash passwords.
 
