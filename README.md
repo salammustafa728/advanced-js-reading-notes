@@ -16,14 +16,13 @@ Table of reading-notes for 401 classes.
 
 | Subject  |	Page|
 |----- | ----   |
-
-| Read 01  |	[02-prep-and-tdd](./401-javascript-reading/02-prep-and-tdd.md)|
+| Read 01  |	[02-prep-and-tdd](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/02-prep-and-tdd.html)|
 |-------   |	---------|
-|Read-03 |	[03-prep-and-tdd](./401-javascript-reading/03-prep-and-tdd.md)|
+|Read-03 |	[03-prep-and-tdd](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/03-prep-and-tdd.html)|
 |------- 	|---------|
-|04-class |	[4-sqlvsnosql.md](./401-javascript-reading/04-sqlvsnosql.md) | 
+| Read 04 |	[4-sqlvsnosql.md](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/04-sqlvsnosql.html) | 
 |------- 	|---------|
-| 05-class | [Linkedlist](./401-javascript-reading/05-linkedList.md)	|
+|Read 05 | [Linkedlist](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/05-linkedList.html)	|
 |------- 	|---------|
-| |	|
+| Read 06 |	|  [Authentication]()       |
 |------- 	|---------|
