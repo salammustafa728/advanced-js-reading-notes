@@ -26,3 +26,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 06 |	 [Authentication](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/06-Authentication.html)  |
 |------- 	|---------|
+| Read 07 |	 [Bearer Authorization](./401-javascript-reading/07-Bearer-Authorization.md)  |
+|------- 	|---------|
