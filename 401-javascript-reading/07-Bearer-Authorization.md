@@ -37,4 +37,4 @@ if you want to use the jwt you should install it
 
 and we can use it in many different way with different method like decode incode or verfiy...etc. 
 
-[Home](README.md)
+[Home](../README.md)

@@ -30,4 +30,4 @@ non-linear:  items don’t have to be arranged in order.
 
 
 
-[Home](README.md)
+[Home](../README.md)

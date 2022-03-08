@@ -33,4 +33,4 @@ is a promise-based Node.js ORM tool for Postgres, MySQL, and others.
 ![sequelize](../images/Screenshot 2022-02-22 161023.png)
 
 
-[Home](README.md)
+[Home](../README.md)
