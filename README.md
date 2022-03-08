@@ -28,5 +28,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 07 |	 [Bearer Authorization](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/07-Bearer-Authorization.html)  |
 |------- 	|---------|
-| Read 08 |	 [Access Control (ACL) ](./401-javascript-reading/08-Access-Control.md)  |
+| Read 08 |	 [Access Control (ACL) ](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/08-Access-Control.html)  |
 |------- 	|---------|
