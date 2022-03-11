@@ -30,3 +30,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 08 |	 [Access Control (ACL) ](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/08-Access-Control.html)  |
 |------- 	|---------|
+| Read 09 |	 [Authorization/Authentication ](./401-javascript-reading/09-Authorization-Authentication.md) |
+|------- 	|---------|
