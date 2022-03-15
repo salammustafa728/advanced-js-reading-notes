@@ -34,3 +34,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 10 |	 [Stacks & Queues](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/10-Stacks-Queues.html) |
 |------- 	|---------|
+| Read 11 |	 [ Event Driven Applications](./401-javascript-reading/11-Event-Driven-Applications.md) |
+|------- 	|---------|
