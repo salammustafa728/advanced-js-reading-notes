@@ -32,5 +32,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 09 |	 [Authorization/Authentication ](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/09-Authorization-Authentication.html) |
 |------- 	|---------|
-| Read 10 |	 [Stacks & Queues](./401-javascript-reading/10-Stacks%26Queues.md) |
+| Read 10 |	 [Stacks & Queues](./401-javascript-reading/10-Stacks-Queues.md) |
 |------- 	|---------|
