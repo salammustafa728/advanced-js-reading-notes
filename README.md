@@ -36,3 +36,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 11 |	 [ Event Driven Applications](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/11-Event-Driven-Applications.html) |
 |------- 	|---------|
+| Read 12 |	 [Socket.io](./401-javascript-reading/12-Socket.io.md) |
+|------- 	|---------|
