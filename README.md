@@ -38,5 +38,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 12 |	 [Socket.io](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/12-Socket.io.html) |
 |------- 	|---------|
-| Read 13 |	 [Message Queues](./401-javascript-reading/13-Message-Queues.md) |
+| Read 13 |	 [Message Queues](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/13-Message-Queues.html) |
 |------- 	|---------|
