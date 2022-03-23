@@ -40,5 +40,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 13 |	 [Message Queues](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/13-Message-Queues.html) |
 |------- 	|---------|
-| Read 14 |	 [Trees](./401-javascript-reading/14-Trees.md) |
+| Read 14 |	 [Trees](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/14-Trees.html) |
 |------- 	|---------|
