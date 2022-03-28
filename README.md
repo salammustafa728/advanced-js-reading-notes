@@ -42,5 +42,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 14 |	 [Trees](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/14-Trees.html) |
 |------- 	|---------|
-| Read 15 |	 [AWS: Cloud Servers](./401-javascript-reading/15-AWS-Cloud-Servers.md) |
+| Read 15 |	 [AWS: Cloud Servers](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/15-AWS-Cloud-Servers.html) |
 |------- 	|---------|
