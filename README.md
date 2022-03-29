@@ -44,5 +44,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 15 |	 [AWS: Cloud Servers](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/15-AWS-Cloud-Servers.html) |
 |------- 	|---------|
-| Read 16 |	 [AWS: S3 and Lambda](./401-javascript-reading/16-AWS-S3-and-Lambda.md) |
+| Read 16 |	 [AWS: S3 and Lambda](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/16-AWS-S3-and-Lambda.html) |
 |------- 	|---------|
