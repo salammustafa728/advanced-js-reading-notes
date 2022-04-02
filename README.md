@@ -46,5 +46,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 16 |	 [AWS: S3 and Lambda](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/16-AWS-S3-and-Lambda.html) |
 |------- 	|---------|
-| Read 17 |	 [AWS: API, Dynamo and Lambda](./401-javascript-reading/17-AWS-API-Dynamo-and-Lambda.md) |
+| Read 17 |	 [AWS: API, Dynamo and Lambda](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/17-AWS-API-Dynamo-and-Lambda.html) |
 |------- 	|---------|
