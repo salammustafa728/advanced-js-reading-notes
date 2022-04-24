@@ -48,5 +48,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 17 |	 [AWS: API, Dynamo and Lambda](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/17-AWS-API-Dynamo-and-Lambda.html) |
 |------- 	|---------|
-| Read 26 |	 [Component-based](../advanced-js-reading-notes/401-javascript-reading/17-AWS-API-Dynamo-and-Lambdaaa.md) |
+| Read 26 |	 [Component-based](../advanced-js-reading-notes/401-javascript-reading/26-Component-Based-ui.md) |
 |------- 	|---------|
