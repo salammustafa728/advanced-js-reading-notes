@@ -52,5 +52,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 27 |	 [useState Hook](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/27-useState-Hooks) |
 |------- 	|---------|
-| Read 28 |	 [Component Lifecycle, UseEffect()](../advanced-js-reading-notes/401-javascript-reading/28-Component-Lifecycle-useEffect.md) |
+| Read 28 |	 [Component Lifecycle, UseEffect()](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/28-Component-Lifecycle-useEffect) |
 |------- 	|---------|
