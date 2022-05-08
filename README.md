@@ -54,3 +54,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 28 |	 [Component Lifecycle, UseEffect()](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/28-Component-Lifecycle-useEffect) |
 |------- 	|---------|
+| Read 29 |	 [Advanced State with Reducers](./401-javascript-reading/29-Advanced-State-with-Reducers.md) |
+|------- 	|---------|
