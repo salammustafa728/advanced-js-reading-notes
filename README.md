@@ -56,5 +56,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 29 |	 [Advanced State with Reducers](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/29-Advanced-State-with-Reducers.html) |
 |------- 	|---------|
-| Read 30 |	 [Hash Tables](./401-javascript-reading/30-Hash-Tables.md) |
+| Read 30 |	 [Hash Tables](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/30-Hash-Tables.html) |
 |------- 	|---------|
