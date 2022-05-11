@@ -58,5 +58,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 30 |	 [Hash Tables](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/30-Hash-Tables.html) |
 |------- 	|---------|
-| Read 31 |	 [Context API](./401-javascript-reading/31-Context-API.md) |
+| Read 31 |	 [Context API](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/31-Context-API.html) |
 |------- 	|---------|
