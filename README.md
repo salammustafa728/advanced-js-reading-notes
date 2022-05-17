@@ -60,5 +60,7 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 31 |	 [Context API](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/31-Context-API.html) |
 |------- 	|---------|
-| Read 31 |	 [Context API Behaviors](./401-javascript-reading/32-Context-API-Behaviors.md) |
+| Read 32 |	 [Context API Behaviors](./401-javascript-reading/32-Context-API-Behaviors.md) |
+|------- 	|---------|
+| Read 33 |	 [Login and Auth](./401-javascript-reading/33-login-and-auth.md) |
 |------- 	|---------|
