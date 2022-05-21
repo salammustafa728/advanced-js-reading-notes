@@ -64,3 +64,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 33 |	 [Login and Auth](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/33-login-and-auth.html) |
 |------- 	|---------|
+| Read 34 |	 [API Integration](./401-javascript-reading/34-API-Integration.md) |
+|------- 	|---------|
