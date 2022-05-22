@@ -66,5 +66,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 34 |	 [API Integration](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/34-API-Integration.html) |
 |------- 	|---------|
-| Read 35 |	 [Graphs](./401-javascript-reading/35-Graphs.md) |
+| Read 35 |	 [Graphs](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/35-Graphs.html) |
 |------- 	|---------|
