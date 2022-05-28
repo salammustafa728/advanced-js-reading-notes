@@ -68,3 +68,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 35 |	 [Graphs](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/35-Graphs.html) |
 |------- 	|---------|
+| Read 36 |	 [Application State with Redux](./401-javascript-reading/36-Application-State-with-Redux.md) |
+|------- 	|---------|
