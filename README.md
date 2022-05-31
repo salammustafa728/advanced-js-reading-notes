@@ -72,3 +72,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 37 |	 [Redux - Combined Reducers](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/37-Redux-Combined-Reducers.html) |
 |------- 	|---------|
+| Read 38 |	 [Redux - Asynchronous Actions](./401-javascript-reading/38-Redux-Asynchronous-Actions.md) |
+|------- 	|---------|
