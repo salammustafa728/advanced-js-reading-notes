@@ -74,3 +74,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 38 |	 [Redux - Asynchronous Actions](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/38-Redux-Asynchronous-Actions.html) |
 |------- 	|---------|
+| Read 39 |	 [Redux - Additional Topics](./401-javascript-reading/39-Redux-Additional-Topics.md) |
+|------- 	|---------|
