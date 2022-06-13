@@ -78,3 +78,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 40 |	 [React Native](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/40-React-Native.html) |
 |------- 	|---------|
+| Read 41 |	 [Ethics in Tech](./401-javascript-reading/41-Ethics-in-Tech.md) |
+|------- 	|---------|
