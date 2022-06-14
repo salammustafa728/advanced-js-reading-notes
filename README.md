@@ -80,3 +80,5 @@ Table of reading-notes for 401 classes.
 |------- 	|---------|
 | Read 41 |	 [Ethics in Tech](https://salammustafa728.github.io/advanced-js-reading-notes/401-javascript-reading/41-Ethics-in-Tech.html) |
 |------- 	|---------|
+| Read 42 |	 [Open-Source-Software-Contribution](./401-javascript-reading/42-Open-Source-Software-Contribution.md) |
+|------- 	|---------|
